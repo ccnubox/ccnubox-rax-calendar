@@ -15,7 +15,7 @@ class App extends Component {
             height: screen.height
           }}
         >
-           <Image source={require("./assets/calendar.png")} />
+           <Image source={require("./assets/2019-2020-fall-calendar.png")} />
         </ScrollView>
       </View>
     );
