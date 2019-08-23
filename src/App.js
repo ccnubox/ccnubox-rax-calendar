@@ -9,13 +9,14 @@ class App extends Component {
   render() {
     return (
       <View style={styles.app}>
-       
         <ScrollView
           style={{
             height: screen.height
           }}
         >
-           <Image source={require("./assets/2019-2020-fall-calendar.png")} />
+          <Image
+            source={require("./assets/2019-2020-fall-calendar2.png")}
+          />
         </ScrollView>
       </View>
     );
