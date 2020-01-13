@@ -15,7 +15,7 @@ class App extends Component {
           }}
         >
           <Image
-            source={require("./assets/2019-2020-fall-calendar2.png")}
+            source={require("./assets/2019-2020-spring-calendar.png")}
           />
         </ScrollView>
       </View>
