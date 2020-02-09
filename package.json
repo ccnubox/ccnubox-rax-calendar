@@ -1,7 +1,7 @@
 {
   "name": "ccnubox-rax-calendar",
   "author": "rax",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "scripts": {
     "start": "rax-scripts start",
     "build": "rax-scripts build",
