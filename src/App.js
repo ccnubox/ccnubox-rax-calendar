@@ -11,10 +11,14 @@ class App extends Component {
       <View style={styles.app}>
         <ScrollView
           style={{
+            width: screen.width,
             height: screen.height
           }}
         >
           <Image
+            style={{
+              width: screen.width
+            }}
             source={require("./assets/2019-2020-spring-calendar.png")}
           />
         </ScrollView>
