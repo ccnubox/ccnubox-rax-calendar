@@ -19,7 +19,7 @@ class App extends Component {
             style={{
               width: screen.width
             }}
-            source={require("./assets/2019-2020-spring-calendar.png")}
+            source={require("./assets/2020-2021-fall-calendar.png")}
           />
         </ScrollView>
       </View>
